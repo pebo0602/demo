@@ -4,8 +4,4 @@ This is a simple readme
 
 ## HEADING 2
 
-### HEADING 3
-
-on a branch
-
-This is bound to cause trouble
+just something going on
